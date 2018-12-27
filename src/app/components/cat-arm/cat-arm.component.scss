@@ -1,5 +1,8 @@
 div {
+    position: flex;
     height: 100px;
-    width: 100px;
-    background-color: aqua;
+    width: 25%;
+    background-color: black;
+    animation: 'pulse' 2s infinite;
 }
+
