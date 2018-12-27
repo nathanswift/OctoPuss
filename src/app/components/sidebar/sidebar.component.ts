@@ -9,6 +9,10 @@ export class SidebarComponent implements OnInit {
 
   constructor() { }
 
+  link() {
+    console.log('moooo!')
+  }
+
   ngOnInit() {
   }
 

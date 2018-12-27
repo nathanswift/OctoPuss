@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IntroTextComponent implements OnInit {
 
+  title = 'OctoPuss Boxing Club';
+
   constructor() { }
 
   ngOnInit() {
